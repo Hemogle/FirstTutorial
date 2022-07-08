@@ -1,0 +1,53 @@
+Div 태그 세로
+
+Span 태그 가로로 붙음
+
+
+제목태그 목록태그(h1,ul li)  
+
+제목 h1~h6
+목록ul <li>목록 1~3
+점나오는데  li{
+                list-style: none;
+            } 이거쓰면 안나옴
+
+컨트롤 슬래쉬 주석처리 (초록이)
+
+입력양식(form input) 주로회원가입 
+Span 태그처럼 가로
+
+inp0ut radio or check는 label태그로 감싸준다
+라디오는 한개씩 선택가능
+체크박스는 다수 선택가능
+submit은 검증없이 쏴버림 
+
+버튼 만드는법 
+
+
+.colorBtn{
+                width: 100px;
+                height: 36px;
+                background-color: green;
+                color: white;
+                text-align: center;
+                line-height: 36px;
+                cursor: pointer;
+                border-radius: 3px;
+            }
+
+
+ <li><div class ="colorBtn">버튼입니다</div></li>
+
+이미지 링크 넣는법 a태그 link태그
+
+a태그 <a href="https://google.com">구글 바로가기</a>
+이미지링크 태그 <img src="image/img.jpg">
+
+padding -상하좌우 태그 면적이 늘어남
+margin   -상하좌우거리가 늘어남
+
+테이블 태그 (thead,tbody,tr,th,td)
+
+별선택자
+
+포지션(absolute,relative,fixed)
